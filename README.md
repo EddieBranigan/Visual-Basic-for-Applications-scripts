@@ -4,7 +4,7 @@ A group of small tools and quality of life programs that run within the Bluezone
 ClearAlarmsinPaperless.js
 A script that automates the clearing of alarms in paperless, ran in bluezones mainframe.
 
-PrintCardsMenu.bbs
+<b>PrintCardsMenu.bbs</b>
 A small dialog box that runs within Denver on bluezones mainframe.
 It gives the user an easy to use interface to allow the printing of work cards.
 
