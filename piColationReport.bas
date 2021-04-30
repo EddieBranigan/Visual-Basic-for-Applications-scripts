@@ -16,7 +16,7 @@ Sub runMacro()
     Dim pvtCache As PivotCache
     Dim pvt As PivotTable
     
-    dirFile = "\\global.tesco.org\dfsroot\IE\Distribution\Ballymun\Planning\Warehouse Planning\PRA\PRA individual weeks\"
+    dirFile = "fileloc"
     
     clearWorkSheets
     sentinel = 1
