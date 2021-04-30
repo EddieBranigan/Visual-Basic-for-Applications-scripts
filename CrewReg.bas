@@ -268,8 +268,8 @@ Private Sub getCrewRoster(rosterName As String)
     Dim stringFileLoc As String
     Dim rosterWB As Workbook
     Dim i As Integer
-    'stringFileLoc = "C:\Users\IEE12367699\OneDrive - Tesco\office work\testing files\"
-    stringFileLoc = "\\global.tesco.org\dfsroot\IE\Distribution\Ballymun\Planning\Warehouse Planning\Rosters\Individual\"
+    'stringFileLoc = ""
+    stringFileLoc = ""
     Set rosterWB = Workbooks.Open(stringFileLoc & rosterName & ".xls", _
     UpdateLinks:=False, ReadOnly:=True)
     Dim wsCount As Integer
